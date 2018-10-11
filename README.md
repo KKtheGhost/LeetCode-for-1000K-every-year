@@ -6,6 +6,6 @@
 
 `One question may have several answers.`
 
-`Some answers were copies from Internet or other comments.`
+`Some answers were copied from Internet or other comments.`
 
 `Be modest.`
