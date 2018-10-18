@@ -41,7 +41,7 @@ class Solution(object):
         arr = [''] * numRows                ##创建一个长度为行数的空字符串列表
         line, step = 0, -1                  ##预设行数为0(因为join操作的时候从索引0开始排列)，步长为-1
         for c in s:                         ##通过循环来生成arr这个字符串列表。
-            arr[line] += c                  ##向arr中添加s的成员。
+            arr[line] += c                  ##向arr[line]中添加s的成员。
             if line % (numRows-1) == 0:     ##因为从line = 0开始，所以第N行的时候应该可以整除N-1.
                 step = - step               ##当line可以整除n-1的时候，改变行数变化方向，所以step = -step
             line += step                    ##line根据步长变化，继续添加。
