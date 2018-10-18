@@ -25,3 +25,5 @@ class Solution:
                 ku = s2
 
         return ku
+    
+##这种遍历算法感觉不适合使用python，本结论差不多要950ms这样，有机会再学习一下其他语言的写法。
