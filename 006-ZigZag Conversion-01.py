@@ -48,7 +48,7 @@ class Solution(object):
                 step = - step               ##当line可以整除n-1的时候，改变行数变化方向，所以step = -step
             line += step                    ##line根据步长变化，继续添加。
         ##在上面一个循环里，假如s = "PAYPALISHIRING",numRow=4的话，
-        #  循环的产生顺序也就是arr[0] == 'P',然后arr[1] == 'A',然后arrp[2] == 'Y'
+        #  循环的产生顺序也就是arr[0] == 'P',然后arr[1] == 'A',然后arr[2] == 'Y'
         ##然后arr[3]='P',然后arr[2]='YA',arr[1]='AL'...这样的顺序进行不停地添加，最后得到如下四个arr
         ##arr[0]='PIN',arr[1]='ALSIG',arr[2]='YAHR',arr[3]='PI'
         
