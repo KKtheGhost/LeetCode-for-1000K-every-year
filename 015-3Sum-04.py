@@ -14,6 +14,7 @@
 ##   [-1, -1, 2]
 ## ]
 
+##最强的方法，只要300ms不到，膜拜。
 class Solution(object):
     def threeSum(self, nums):
         """
