@@ -16,7 +16,6 @@
 ##Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. 
 ##For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 
-##此方法把x转化为str，我认为没必要，大有优化空间。
 class Solution(object):
     def reverse(self, x):
         """

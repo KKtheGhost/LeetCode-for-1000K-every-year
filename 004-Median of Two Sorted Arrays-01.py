@@ -5,7 +5,8 @@ class Solution:
         :type nums2: List[int]
         :rtype: float
         """
-        length1,length2 = len(nums1),len(nums2)
+        length1 = len(nums1)
+        length2 = len(nums2)
         k = (length1 + length2) // 2
         if (length1 + length2) % 2 == 0:
             return (self.findK(nums1, nums2, k) + self.findK(nums1, nums2, k - 1)) / 2.0
