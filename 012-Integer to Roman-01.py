@@ -47,11 +47,12 @@ class Solution(object):
         :type num: int
         :rtype: str
         """
+        ##建立罗马字和数字的对应表，这里不用字典因为字典基于哈希值，是无序的。
         d1 = ['M','CM','D','CD','C','XC','L','XL','X','IX','V','IV','I']
         d2 = [1000,900,500,400,100,90,50,40,10,9,5,4,1]
-        a = ''
-        for i in range(0,len(d1)):
-            while d2[i] <= num:
+        a = ''                              ##初始化输出字符串a
+        for i in range(0,len(d1)):          ##设定循环范围在对应表内
+            while d2[i] <= num:             ##把num和对应表内的d2数字做对比，做减法循环
                 num -= d2[i]
-                a += d1[i]
-        return a   
+                a += d1[i]                  ##并且不断赋值(字符)给字符串a
+        return a                            ##最后输出a
