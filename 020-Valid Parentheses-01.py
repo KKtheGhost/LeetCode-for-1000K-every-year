@@ -35,17 +35,17 @@ class Solution:
         :type s: str
         :rtype: bool
         """
-        stack = []
-        dict = {"]":"[", "}":"{", ")":"("}
-        for char in s:
-            if char in dict.values():
-                stack.append(char)
-            elif char in dict.keys():
-                if stack == [] or dict[char] != stack.pop():
-                    return False
-            else:
+        stack = []                                              ##建立一个空的栈
+        dict = {"]":"[", "}":"{", ")":"("}                      ##创建一个字典用来存储配对关系
+        for char in s:                                          ##遍历字符串中的字符
+            if char in dict.values():                           ##如果char在字典的value里面，说明是一个括号组的开始
+                stack.append(char)                              ##往栈中加入char
+            elif char in dict.keys():                           ##如果char在字典的key中，说明是一个括号组的结尾
+                if stack == [] or dict[char] != stack.pop():    ##如果此时的stack是空值，或者不匹配目前栈的最上面的字符
+                    return False                                ##返回false
+            else:                                               ##其他情况返回false
                 return False
-        return stack == []
+        return stack == []                                      ##最后判断stack是否为空值，如果是返回true
     
 ## stack通常的操作：
 ## Stack() 建立一个空的栈对象
