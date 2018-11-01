@@ -13,3 +13,4 @@
 `手写自己的思路和过程。保证每个人都看得懂，自己第二遍刷也能优化思维`
 
 2018-10-17：`Hard Level is Beyond My Ability By Now. Skip them`
+2018-10-31: `月底很忙，懈怠了。`
