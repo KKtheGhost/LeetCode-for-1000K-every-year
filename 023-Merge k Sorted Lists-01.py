@@ -16,6 +16,7 @@
 #         self.val = x
 #         self.next = None
 
+# 堆的概念
 class Solution:
     def mergeKLists(self, lists):
         """
