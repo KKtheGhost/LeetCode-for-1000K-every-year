@@ -10,7 +10,6 @@
 ##   "()()()"
 ## ]
 
-# self调用练习
 class Solution:
     def generateParenthesis(self, n, open=0):
         """
