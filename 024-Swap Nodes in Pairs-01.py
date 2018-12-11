@@ -20,11 +20,11 @@ class Solution:
         :type head: ListNode
         :rtype: ListNode
         """
-        pre, pre.next = self, head
-        while pre.next and pre.next.next:
-            a = pre.next
-            b = a.next
-            pre.next, b.next, a.next = b, a, b.next
-            pre = a
-        return self.next
+        pre, pre.next = self, head                      ## 设定链表的self和头，进行循环
+        while pre.next and pre.next.next:               ## 对链表的相邻两个值进行处理
+            a = pre.next                                ## 反向处理
+            b = a.next                          
+            pre.next, b.next, a.next = b, a, b.next     ## 2位退后处理
+            pre = a                                     ## 重新赋值
+        return self.next                                
         
