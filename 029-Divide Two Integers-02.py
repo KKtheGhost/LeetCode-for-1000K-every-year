@@ -28,7 +28,6 @@ class Solution:
         :rtype: int
         """
         if dividend==0: return 0
-        if divisor==0: return None
         isneg = False
         if (dividend>0 and divisor<0) or (dividend<0 and divisor>0):
             isneg = True
