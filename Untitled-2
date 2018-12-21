@@ -1,0 +1,187 @@
+[[inputs.snmp.table]]
+  ## measurement name
+  name = "ifin_octets_bytes"
+  inherit_tags = [ "port" ]  
+  [[inputs.snmp.table.field]]
+    name = ".1"
+    oid = ".1"
+  [[inputs.snmp.table.field]]
+    name = ".101"
+    oid = ".101"
+  [[inputs.snmp.table.field]]
+    name = ".5001"
+    oid = ".5001"
+  [[inputs.snmp.table.field]]
+    name = ".5002"
+    oid = ".5002"
+  [[inputs.snmp.table.field]]
+    name = ".5003"
+    oid = ".5003"
+  [[inputs.snmp.table.field]]
+    name = ".5006"
+    oid = ".5006"
+  [[inputs.snmp.table.field]]
+    name = ".5137"
+    oid = ".5137"
+  [[inputs.snmp.table.field]]
+    name = ".10101"
+    oid = ".10101"
+  [[inputs.snmp.table.field]]
+    name = ".10102"
+    oid = ".10102"
+  [[inputs.snmp.table.field]]
+    name = ".10103"
+    oid = ".10103"
+  [[inputs.snmp.table.field]]
+    name = ".10104"
+    oid = ".10104"
+  [[inputs.snmp.table.field]]
+    name = ".10105"
+    oid = ".10105"
+  [[inputs.snmp.table.field]]
+    name = ".10106"
+    oid = ".10106"
+  [[inputs.snmp.table.field]]
+    name = ".10107"
+    oid = ".10107"
+  [[inputs.snmp.table.field]]
+    name = ".10108"
+    oid = ".10108"
+  [[inputs.snmp.table.field]]
+    name = ".10109"
+    oid = ".10109"
+  [[inputs.snmp.table.field]]
+    name = ".10110"
+    oid = ".10110"
+  [[inputs.snmp.table.field]]
+    name = ".10111"
+    oid = ".10111"
+  [[inputs.snmp.table.field]]
+    name = ".10112"
+    oid = ".10112"
+  [[inputs.snmp.table.field]]
+    name = ".10113"
+    oid = ".10113"
+  [[inputs.snmp.table.field]]
+    name = ".10114"
+    oid = ".10114"
+  [[inputs.snmp.table.field]]
+    name = ".10115"
+    oid = ".10115"
+  [[inputs.snmp.table.field]]
+    name = ".10116"
+    oid = ".10116"
+  [[inputs.snmp.table.field]]
+    name = ".10117"
+    oid = ".10117"
+  [[inputs.snmp.table.field]]
+    name = ".10118"
+    oid = ".10118"
+  [[inputs.snmp.table.field]]
+    name = ".10119"
+    oid = ".10119"
+  [[inputs.snmp.table.field]]
+    name = ".10120"
+    oid = ".10120"
+  [[inputs.snmp.table.field]]
+    name = ".10121"
+    oid = ".10121"
+  [[inputs.snmp.table.field]]
+    name = ".10122"
+    oid = ".10122"
+  [[inputs.snmp.table.field]]
+    name = ".10123"
+    oid = ".10123"
+  [[inputs.snmp.table.field]]
+    name = ".10124"
+    oid = ".10124"
+  [[inputs.snmp.table.field]]
+    name = ".10125"
+    oid = ".10125"
+  [[inputs.snmp.table.field]]
+    name = ".10126"
+    oid = ".10126"
+  [[inputs.snmp.table.field]]
+    name = ".10127"
+    oid = ".10127"
+  [[inputs.snmp.table.field]]
+    name = ".10128"
+    oid = ".10128"
+  [[inputs.snmp.table.field]]
+    name = ".10129"
+    oid = ".10129"
+  [[inputs.snmp.table.field]]
+    name = ".10130"
+    oid = ".10130"
+  [[inputs.snmp.table.field]]
+    name = ".10131"
+    oid = ".10131"
+  [[inputs.snmp.table.field]]
+    name = ".10132"
+    oid = ".10132"
+  [[inputs.snmp.table.field]]
+    name = ".10133"
+    oid = ".10133"
+  [[inputs.snmp.table.field]]
+    name = ".10134"
+    oid = ".10134"
+  [[inputs.snmp.table.field]]
+    name = ".10135"
+    oid = ".10135"
+  [[inputs.snmp.table.field]]
+    name = ".10136"
+    oid = ".10136"
+  [[inputs.snmp.table.field]]
+    name = ".10137"
+    oid = ".10137"
+  [[inputs.snmp.table.field]]
+    name = ".10138"
+    oid = ".10138"
+  [[inputs.snmp.table.field]]
+    name = ".10139"
+    oid = ".10139"
+  [[inputs.snmp.table.field]]
+    name = ".10140"
+    oid = ".10140"
+  [[inputs.snmp.table.field]]
+    name = ".10141"
+    oid = ".10141"
+  [[inputs.snmp.table.field]]
+    name = ".10142"
+    oid = ".10142"
+  [[inputs.snmp.table.field]]
+    name = ".10143"
+    oid = ".10143"
+  [[inputs.snmp.table.field]]
+    name = ".10144"
+    oid = ".10144"
+  [[inputs.snmp.table.field]]
+    name = ".10145"
+    oid = ".10145"
+  [[inputs.snmp.table.field]]
+    name = ".10146"
+    oid = ".10146"
+  [[inputs.snmp.table.field]]
+    name = ".10147"
+    oid = ".10147"
+  [[inputs.snmp.table.field]]
+    name = ".10148"
+    oid = ".10148"
+  [[inputs.snmp.table.field]]
+    name = ".10149"
+    oid = ".10149"
+  [[inputs.snmp.table.field]]
+    name = ".10150"
+    oid = ".10150"
+  [[inputs.snmp.table.field]]
+    name = ".10201"
+    oid = ".10201"
+  [[inputs.snmp.table.field]]
+    name = ".10202"
+    oid = ".10202"
+  [[inputs.snmp.table.field]]
+    name = ".12001"
+    oid = ".12001"
+  [[inputs.snmp.table.field]]
+    name = ".12002"
+    oid = ".12002"

@@ -1,0 +1,432 @@
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/1"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437256192"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/2"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437260288"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/3"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437264384"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/4"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437268480"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/5"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437272576"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/6"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437276672"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/7"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437280768"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/8"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437284864"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/9"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437288960"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/10"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437293056"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/11"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437297152"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/12"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437301248"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/13"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437305344"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/14"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437309440"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/15"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437313536"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/16"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437317632"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/17"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437321728"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/18"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437325824"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/19"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437329920"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/20"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437334016"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/21"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437338112"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/22"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437342208"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/23"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437346304"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/24"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437350400"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/25"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437354496"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/26"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437358592"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/27"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437362688"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/28"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437366784"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/29"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437370880"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/30"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437374976"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/31"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437379072"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/32"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437383168"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/33"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437387264"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/34"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437391360"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/35"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437395456"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/36"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437399552"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/37"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437403648"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/38"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437407744"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/39"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437411840"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/40"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437415936"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/41"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437420032"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/42"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437424128"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/43"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437428224"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/44"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437432320"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/45"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437436416"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/46"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437440512"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/47"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437444608"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet3/48"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437448704"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/1"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437780480"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/2"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437784576"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/3"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437788672"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/4"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437792768"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/5"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437796864"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/6"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437800960"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/7"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437805056"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/8"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437809152"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/9"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437813248"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/10"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437817344"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/11"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437821440"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/12"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437825536"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/13"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437829632"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/14"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437833728"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/15"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437837824"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/16"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437841920"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/17"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437846016"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/18"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437850112"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/19"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437854208"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/20"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437858304"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/21"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437862400"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/22"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437866496"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/23"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437870592"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/24"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437874688"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/25"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437878784"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/26"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437882880"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/27"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437886976"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/28"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437891072"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/29"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437895168"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/30"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437899264"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/31"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437903360"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/32"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437907456"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/33"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437911552"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/34"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437915648"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/35"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437919744"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/36"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437923840"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/37"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437927936"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/38"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437932032"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/39"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437936128"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/40"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437940224"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/41"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437944320"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/42"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437948416"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/43"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437952512"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/44"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437956608"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/45"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437960704"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/46"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437964800"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/47"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437968896"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet4/48"	
+  oid = "1.3.6.1.2.1.2.2.1.10.437972992"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/1"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438829056"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/2"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438833152"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/3"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438837248"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/4"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438841344"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/5"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438845440"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/6"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438849536"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/7"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438853632"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/8"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438857728"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/9"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438861824"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/10"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438865920"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/11"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438870016"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/12"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438874112"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/13"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438878208"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/14"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438882304"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/15"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438886400"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/16"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438890496"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/17"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438894592"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/18"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438898688"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/19"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438902784"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/20"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438906880"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/21"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438910976"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/22"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438915072"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/23"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438919168"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/24"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438923264"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/25"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438927360"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/26"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438931456"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/27"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438935552"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/28"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438939648"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/29"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438943744"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/30"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438947840"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/31"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438951936"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/32"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438956032"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/33"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438960128"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/34"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438964224"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/35"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438968320"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/36"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438972416"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/37"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438976512"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/38"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438980608"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/39"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438984704"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/40"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438988800"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/41"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438992896"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/42"	
+  oid = "1.3.6.1.2.1.2.2.1.10.438996992"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/43"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439001088"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/44"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439005184"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/45"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439009280"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/46"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439013376"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/47"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439017472"
+[[inputs.snmp.field]] 
+  name = "ifInOctetsEthernet6/48"	
+  oid = "1.3.6.1.2.1.2.2.1.10.439021568"
