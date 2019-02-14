@@ -28,3 +28,24 @@ class Solution(object):
         :rtype: List[int]
         """
         return matrix and list(matrix.pop(0)) + self.spiralOrder(zip(*matrix)[::-1])
+
+##-------------#
+## [
+##  [ 1, 2, 3 ],
+##  [ 4, 5, 6 ],
+##  [ 7, 8, 9 ]
+## ]
+## take [ 1, 2, 3 ] away, the matrix turn into:
+## [
+##  [ 4, 5, 6 ],
+##  [ 7, 8, 9 ]
+## ]
+## than rotate it.
+## [
+##  [ 6, 9 ],
+##  [ 5, 8 ],
+##  [ 4, 7 ]
+## ]
+## take [ 6, 9 ] away, than rotate again.
+## finally we will have a series of list: [ 1, 2, 3 ], [ 6, 9 ], [ 8, 7 ], [ 4 ], [ 5 ]
+## list them into [1,2,3,6,9,8,7,4,5]
