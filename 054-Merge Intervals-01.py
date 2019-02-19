@@ -30,4 +30,3 @@ class Solution(object):
                 ans.append(Interval(node.start,max(node.end,interval.end)))
             else:
                 ans.append(interval)
-        return ans
