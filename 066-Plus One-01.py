@@ -22,3 +22,6 @@ class Solution(object):
         :rtype: List[int]
         """
         return list(map(int, str(int(''.join(map(str, digits)))+1)))
+
+## 首先把整个list进行map函数遍历，并且通过把每一个字符转化为str的方法，配合join生成一个str，然后再转化为int进行+1计算。
+## 然后反向操作日神仙，对int进行str转化，然后继续用map工具对每一位进行遍历并转化为int，然后用list方法添加到列表中。
